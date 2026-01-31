@@ -72,17 +72,17 @@ streamlit run app.py
 ```
 
 ## Output
-Historical price plots
-Seasonal decomposition graphs
-Forecast plots from ARIMA and Prophet
-Interactive dashboard for visualization
+- Historical price plots
+- Seasonal decomposition graphs
+- Forecast plots from ARIMA and Prophet
+- Interactive dashboard for visualization
 
 ## Learning Outcomes
-Understanding time series components
-Detecting seasonality patterns
-Applying statistical forecasting models
-Building end-to-end data science projects
-Creating interactive dashboards with Streamlit
+- Understanding time series components
+- Detecting seasonality patterns
+- Applying statistical forecasting models
+- Building end-to-end data science projects
+- Creating interactive dashboards with Streamlit
 
 ## Author
 Sushil Admane
