@@ -70,6 +70,20 @@ streamlit run app.py
 - Applying statistical forecasting models
 - Building end-to-end data science projects
 - Creating interactive dashboards with Streamlit
+  
+## Screenshots
+
+### EDA
+![EDA](screenshots/eda.png)
+
+### Seasonality
+![Seasonality](screenshots/seasonality.png)
+
+### Prophet Forecast
+![Prophet](screenshots/prophet.png)
+
+### Streamlit App
+![App](screenshots/app.png)
 
 ## Author
 Sushil Admane
