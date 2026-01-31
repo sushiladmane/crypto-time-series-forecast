@@ -86,6 +86,6 @@ streamlit run app.py
 
 ## Author
 Sushil Admane
-Aspiring Data Analyst / Data Scientist
+(Aspiring Data Analyst / Data Scientist)
 
 
