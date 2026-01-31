@@ -1,1 +1,8 @@
- url = "https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data"
+
+## Dataset
+The dataset used in this project was downloaded from Kaggle:
+
+[url](https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data)
+
+> Note: The full dataset (~4 million rows) is not included due to size. 
+> Users can download it directly from Kaggle using the above link.
