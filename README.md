@@ -27,19 +27,6 @@ The main objective of this project is to understand historical crypto price beha
 - Streamlit
 - Scikit-learn
 
-## Project Structure
-Crypto/
-│
-├── data/
-│ └── bitcoin_data.csv
-├── eda.py
-├── seasonality.py
-├── arima.py
-├── prophet.py
-├── app.py
-├── requirements.txt
-└── README.md 
-
 ## Seasonality Analysis
 Seasonality was analyzed using **seasonal decomposition** to break the time series into:
 - Trend
