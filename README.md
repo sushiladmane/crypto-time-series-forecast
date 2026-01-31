@@ -83,7 +83,7 @@ streamlit run app.py
 ![Prophet](screenshots/Prophet.png)
 
 ### Streamlit App
-![App](screenshots/app.png)
+![App](screenshots/Streamlit.png)
 
 ## Author
 Sushil Admane
