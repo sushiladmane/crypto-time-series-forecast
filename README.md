@@ -74,13 +74,13 @@ streamlit run app.py
 ## Screenshots
 
 ### EDA
-![EDA](screenshots/eda.png)
+![EDA](screenshots/EDA.png)
 
 ### Seasonality
-![Seasonality](screenshots/seasonality.png)
+![Seasonality](screenshots/Seasonality.png)
 
 ### Prophet Forecast
-![Prophet](screenshots/prophet.png)
+![Prophet](screenshots/Prophet.png)
 
 ### Streamlit App
 ![App](screenshots/app.png)
